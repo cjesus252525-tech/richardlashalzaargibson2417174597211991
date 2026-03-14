@@ -1,0 +1,8 @@
+{
+    "workbench.editor.tabActionLocation": "left",
+    "workbench.editor.titleScrollbarVisibility": "visible",
+    "workbench.editor.untitled.labelFormat": "name",
+    "workbench.editor.limit.value": 4,
+    "workbench.editor.openSideBySideDirection": "down",
+    "workbench.editor.preferHistoryBasedLanguageDetection": true
+}
